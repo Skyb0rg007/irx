@@ -1,0 +1,4 @@
+Group is
+    deps/sparse/sparse.cm
+    src/parse.sml
+    $/basis.cm

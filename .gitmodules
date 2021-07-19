@@ -1,0 +1,3 @@
+[submodule "deps/sparse"]
+	path = deps/sparse
+	url = git@github.com:Skyb0rg007/sparse.git
